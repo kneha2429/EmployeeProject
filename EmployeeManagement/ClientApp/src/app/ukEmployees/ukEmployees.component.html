@@ -1,0 +1,25 @@
+<h1 id="tableLabel">API Integration of UK Employee API</h1>
+<h2>UK Employee list</h2>
+<br />
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="employeeResult">
+  <thead>
+    <tr>
+      <th>Employee ID</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>RoleName</th>
+      <th>Salary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let emp of employeeResult">
+      <td>{{ emp.employeeId }}</td>
+      <td>{{ emp.firstName }}</td>
+      <td>{{ emp.lastName }}</td>
+      <td>{{ emp.roleName }}</td>
+      <td>{{ emp.salary}}</td>
+      
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,19 @@
+<h1 id="tableLabel">API Integration of COWIN App</h1>
+<h2>Indian States list</h2>
+<br />
+<h2>Total states : {{statesResult.states.length}}</h2>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="statesResult.states">
+  <thead>
+    <tr>
+      <th>State ID</th>
+      <th>State Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let state of statesResult.states">
+      <td>{{ state.state_id }}</td>
+      <td>{{ state.state_name }}</td>
+    </tr>
+  </tbody>
+</table>

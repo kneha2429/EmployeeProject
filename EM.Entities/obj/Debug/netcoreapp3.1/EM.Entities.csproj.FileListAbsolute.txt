@@ -1,0 +1,12 @@
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\bin\Debug\netcoreapp3.1\EM.Entities.deps.json
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\bin\Debug\netcoreapp3.1\EM.Entities.runtimeconfig.json
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\bin\Debug\netcoreapp3.1\EM.Entities.runtimeconfig.dev.json
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\bin\Debug\netcoreapp3.1\EM.Entities.dll
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\bin\Debug\netcoreapp3.1\EM.Entities.pdb
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\obj\Debug\netcoreapp3.1\EM.Entities.csprojAssemblyReference.cache
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\obj\Debug\netcoreapp3.1\EM.Entities.AssemblyInfoInputs.cache
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\obj\Debug\netcoreapp3.1\EM.Entities.AssemblyInfo.cs
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\obj\Debug\netcoreapp3.1\EM.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\obj\Debug\netcoreapp3.1\EM.Entities.dll
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\obj\Debug\netcoreapp3.1\EM.Entities.pdb
+C:\Users\nares\source\repos\EmployeeManagement\EM.Entities\obj\Debug\netcoreapp3.1\EM.Entities.genruntimeconfig.cache
